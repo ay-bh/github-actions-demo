@@ -1,0 +1,26 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "A demo project for GitHub Actions with Jest",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ay-bh/github-actions-demo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ay-bh/github-actions-demo/issues"
+  },
+  "homepage": "https://github.com/ay-bh/github-actions-demo#readme"
+}
